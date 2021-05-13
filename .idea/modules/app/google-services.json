@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "773679986915",
+    "firebase_url": "https://elmexicanoapp.firebaseio.com",
+    "project_id": "elmexicanoapp",
+    "storage_bucket": "elmexicanoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773679986915:android:f84d2ecfe45b2ce42fedd6",
+        "android_client_info": {
+          "package_name": "com.reasoftware.elmexicano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773679986915-c7jt7ldvngrr41vq8f6rirhmv7g3e6gd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reasoftware.elmexicano",
+            "certificate_hash": "e556db3791ef126d176003dbcf024df2e6354a2d"
+          }
+        },
+        {
+          "client_id": "773679986915-01954fq6a34dqgevcs73135ti7uq36ih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7peG09bf1yLQqCBJu5DJ9XMjGUEpQBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773679986915-01954fq6a34dqgevcs73135ti7uq36ih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
